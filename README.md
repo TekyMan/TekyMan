@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TekyMan
 - 👀 I’m interested in Programming
-- 🌱 I’m currently working on as a senier programmer
+- 🌱 I’m currently working on as a senior programmer
 
 <!---
 TekyMan/TekyMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
